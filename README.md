@@ -27,7 +27,6 @@ This repository provides the software versions for raytol's dcu, the flashing me
    ```bash
     cd Linux_for_Tegra
     sudo./tools/l4t_flash_prerequisites.sh
-    sudo./tools/backup_restore/l4t_backup_restore.sh-bjetson-agx-orin-devkit
     sudo service nfs-kernel-serverstart
    ```
 2. **Download the Release Package**
