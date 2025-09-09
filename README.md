@@ -1,8 +1,8 @@
-# Raytol Dcu Software Download
+# Raytol DCU Software Download
 
-This repository provides the software versions for raytol's dcu, the flashing methods, and some application demos.
+This repository provides the software versions for raytol's DCU, the flashing methods, and some application demos.
 
-## Dcu Relesse System Package
+## DCU Relesse System Package
 
 | Product name  | Supported Cameras            |  Jetson Linux Versions | Download Link |
 |---------------|------------------------------|------------------------|---------------|
@@ -15,7 +15,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
 | RB-0 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 | RB-0 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 
-## Flashing Dcu Steps
+## Flashing DCU Steps
 
 1. **Prepare the Environment**
    - Prepare a ubuntu22.04 pc as your host machine.
@@ -37,7 +37,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
    mv $TheReleasePackage $(The path of Linux_For_Tegra)/Linux_for_Tegra/tools/backup_restore/
    ```
 3. **Connect the Device**
-   - Connect the Dcu to the host system via USB.
+   - Connect the DCU to the host system via USB.
 
    ![Recovery port](./assert/Flash_connector.png)
 
@@ -50,7 +50,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
    ![usb port](./assert/lsusb.png)
 
 4. **Flash the Device**
-   - Use the follow command to flash the Dcu.
+   - Use the follow command to flash the DCU.
     ```bash
     cd Linux_for_Tegra
     sudo ./tools/backup_restore/l4t_backup_restore.sh -r jetson-agx-orin-devkit
