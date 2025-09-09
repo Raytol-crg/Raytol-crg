@@ -1,6 +1,6 @@
 # Raytol DCU Software Download
 
-This repository provides the software versions for raytol's DCU, the flashing methods, and some application demos.
+This repository provides the software versions for Raytol's DCU, the flashing methods, and some application demos.
 
 ## DCU Relesse System Package
 
