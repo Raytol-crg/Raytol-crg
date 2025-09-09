@@ -19,7 +19,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
 
 1. **Prepare the Environment**
    - Prepare a ubuntu22.04 pc as your host machine.
-   - Download the Flash tools with this [link](http://ag-to-public.oss-cn-shanghai.aliyuncs.com/Flash_tools/Linux_for_Tegra.tar.gz) and extact the flash tools.
+   - Download the Flash tools with this [link](http://ag-to-public.oss-cn-shanghai.aliyuncs.com/Flash_tools/Linux_for_Tegra.tar.gz) and extract the flash tools.
    ```bash
    tar -xzvf Linux_for_Tegra.tar.gz
    ```
@@ -31,7 +31,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
    ```
 2. **Download the Release Package**
    - Use the links provided in the table above to download the appropriate The Release Package.
-   - extrat the Release Jetson Linux Version and mv to the flash Path.
+   - Extract the Release Package and mv to the flash Path.
    ```bash
    tar -xzvf $TheReleasePackage
    mv $TheReleasePackage $(The path of Linux_For_Tegra)/Linux_for_Tegra/tools/backup_restore/
