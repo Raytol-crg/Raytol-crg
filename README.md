@@ -1,4 +1,4 @@
-# Raytol Dcu Softwaer Download
+# Raytol Dcu Software Download
 
 This repository provides the software versions for raytol's dcu, the flashing methods, and some application demos.
 
@@ -15,7 +15,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
 | RB-0 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 | RB-0 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 
-## Flashing Orin
+## Flashing Orin Steps
 
 1. **Prepare the Environment**
    - Prepare a ubuntu22.04 pc as your host machine.
