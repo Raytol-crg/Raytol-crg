@@ -2,7 +2,7 @@
 
 This repository provides the software versions for Raytol's DCU, the flashing methods, and some application demos.
 
-## DCU Relesse System Package
+## DCU Release System Package
 
 | Product name  | Supported Cameras            |  Jetson Linux Versions | Download Link |
 |---------------|------------------------------|------------------------|---------------|
