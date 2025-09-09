@@ -50,7 +50,7 @@ This repository provides the software versions for Raytol's DCU, the flashing me
    ![usb port](./assert/lsusb.png)
 
 4. **Flash the Device**
-   - Use the follow command to flash the DCU.
+   - Use the following command to flash the DCU.
     ```bash
     cd Linux_for_Tegra
     sudo ./tools/backup_restore/l4t_backup_restore.sh -r jetson-agx-orin-devkit
