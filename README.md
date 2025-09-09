@@ -45,7 +45,7 @@ This repository provides the software versions for Raytol's DCU, the flashing me
 
    ![Recovery button](./assert/Flash_button.png)
 
-   - If connect well use 'lsusb' you will see
+   - If the connection is successful, you will see the following content. 
 
    ![usb port](./assert/lsusb.png)
 
