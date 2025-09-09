@@ -10,8 +10,8 @@ This repository provides the software versions for raytol's dcu, the flashing me
 | RB-1 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 35.3.1                 | TBD|
 | RB-1 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 | RB-1 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
-| RB-0 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
-| RB-0 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
+| RB-0 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.3.1                 | TBD|
+| RB-0 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.3.1                 | TBD|
 | RB-0 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 | RB-0 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 36.4.4                 | TBD|
 
