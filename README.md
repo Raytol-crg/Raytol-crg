@@ -37,7 +37,7 @@ This repository provides the software versions for raytol's dcu, the flashing me
    mv $TheReleasePackage $(The path of Linux_For_Tegra)/Linux_for_Tegra/tools/backup_restore/
    ```
 3. **Connect the Device**
-   - Connect your Jetson Orin device to the host system via USB.
+   - Connect the Dcu to the host system via USB.
 
    ![Recovery port](./assert/Flash_connector.png)
 
