@@ -26,12 +26,12 @@ This repository provides the software versions for Raytol's DCU, the flashing me
    - Install flash requirements
    ```bash
     cd Linux_for_Tegra
-    sudo./tools/l4t_flash_prerequisites.sh
-    sudo service nfs-kernel-serverstart
+    sudo ./tools/l4t_flash_prerequisites.sh
+    sudo service nfs-kernel-server start
    ```
 2. **Download the Release Package**
    - Use the links provided in the table above to download the appropriate The Release Package.
-   - Extract the Release Package and mv to the flash Path.
+   - Extract the Release Package and move to the flash Path.
    ```bash
    tar -xzvf $TheReleasePackage
    mv $TheReleasePackage $(The path of Linux_For_Tegra)/Linux_for_Tegra/tools/backup_restore/
