@@ -4,7 +4,7 @@ This repository provides the software versions for Raytol's DCU, the flashing me
 
 ## DCU Release System Package
 
-| Product name  | Supported Cameras            |  Jetson Linux Versions | Download Link |
+| Product Name  | Supported Cameras            |  Jetson Linux Versions | Download Link |
 |---------------|------------------------------|------------------------|---------------|
 | RB-1 (64G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 35.3.1                 | [Download Link](http://ag-to-public.oss-cn-shanghai.aliyuncs.com/RB-1/V1.0/35.3/64G/images.tar.gz) |
 | RB-1 (32G)    | Sensing_isx031,sensing_ar0233,leopard_isx031,tier4_isx021,tier4_imx490,leopard_gm2b_isx031   | 35.3.1                 | TBD|
@@ -18,8 +18,8 @@ This repository provides the software versions for Raytol's DCU, the flashing me
 ## Flashing DCU Steps
 
 1. **Prepare the Environment**
-   - Prepare a ubuntu22.04 pc as your host machine.
-   - Download the Flash tools with this [link](http://ag-to-public.oss-cn-shanghai.aliyuncs.com/Flash_tools/Linux_for_Tegra.tar.gz) and extract the flash tools.
+   - Prepare an ubuntu22.04 PC as your host machine.
+   - Download the flash tools with this [link](http://ag-to-public.oss-cn-shanghai.aliyuncs.com/Flash_tools/Linux_for_Tegra.tar.gz) and extract the flash tools.
    ```bash
    tar -xzvf Linux_for_Tegra.tar.gz
    ```
@@ -30,8 +30,8 @@ This repository provides the software versions for Raytol's DCU, the flashing me
     sudo service nfs-kernel-server start
    ```
 2. **Download the Release Package**
-   - Use the links provided in the table above to download the appropriate The Release Package.
-   - Extract the Release Package and move to the flash Path.
+   - Use the links provided in the table above to download the appropriate the release Package.
+   - Extract the Release Package and move to the flash path.
    ```bash
    tar -xzvf $TheReleasePackage
    mv $TheReleasePackage $(The path of Linux_For_Tegra)/Linux_for_Tegra/tools/backup_restore/
